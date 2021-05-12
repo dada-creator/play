@@ -1,1 +1,1 @@
-window.location.replace("./coming_soon/coming_soon.html");
+window.location.replace("./comingsoon/comingsoon.html");
