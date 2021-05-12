@@ -1,7 +1,7 @@
 import { startconfeti } from './confetti.js';
 
 const countdown = () => {
-    const countDate = new Date('May 12, 2021 20:48:00').getTime();
+    const countDate = new Date('May 14, 2021 00:00:00').getTime();
     const now = new Date().getTime();
     const gap = countDate - now;
     
