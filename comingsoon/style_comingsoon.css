@@ -12,6 +12,8 @@ h2 {
   padding: 1rem 1rem 3rem 1rem;
 }
 .coming-soon {
+  background: linear-gradient(45deg, rgba(88,89,91,1) 0%, rgba(101,147,166,1) 100%);
+  color: #F2CF63;
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -22,6 +24,7 @@ h2 {
   display: flex;
   justify-content: space-around;
   text-align: center;
+  color: #F2C063;
 }
 .day,
 .hour,
