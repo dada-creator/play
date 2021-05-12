@@ -1,0 +1,1 @@
+window.location.replace("./coming_soon/coming_soon.html");
